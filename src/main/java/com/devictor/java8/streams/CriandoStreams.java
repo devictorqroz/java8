@@ -1,4 +1,4 @@
-package com.devictor.java8;
+package com.devictor.java8.streams;
 
 import java.io.*;
 import java.nio.file.Files;

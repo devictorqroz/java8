@@ -1,4 +1,4 @@
-package com.devictor.java8;
+package com.devictor.java8.streams;
 
 import java.math.BigDecimal;
 import java.util.Arrays;
