@@ -37,7 +37,5 @@ public class Synchronized_2 {
             double sqrt = Math.sqrt(jElevadoA100);
             System.out.println(sqrt);
         }
-
     }
-
 }
